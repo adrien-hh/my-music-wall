@@ -33,11 +33,11 @@ Perfect for music lovers who enjoy collecting, discovering, and visually browsin
 
 ## Tech Stack (to be decided)
 
-- Frontend: Vue3 / React / other
-- Styling: Tailwind CSS / other
-- Backend / DB: Supabase / Firebase / other
-- External API: Discogs / MusicBrainz / other
-- Deployment: Vercel / Netlify / other
+- Frontend:
+- Backend:
+- Database: 
+- External API:
+- Deployment:
 
 ---
 
