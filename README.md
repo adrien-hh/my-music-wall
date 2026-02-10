@@ -20,6 +20,13 @@ Perfect for music lovers who enjoy collecting, discovering, and visually browsin
 
 ---
 
+## Project Management
+
+This project is managed using a GitHub Projects Kanban board,
+with tasks tracked as GitHub Issues.
+
+---
+
 ## Features (planned)
 
 - Visual album wall (grid layout)
@@ -49,6 +56,17 @@ Perfect for music lovers who enjoy collecting, discovering, and visually browsin
 - [ ] Create personal album lists
 - [ ] Authentication / user accounts
 - [ ] Filter & sort options
+
+---
+
+## CI / CD
+
+This project uses GitLab CI for continuous integration.
+
+The GitHub repository is mirrored to GitLab, where pipelines handle:
+- linting
+- tests
+- build checks
 
 ---
 
