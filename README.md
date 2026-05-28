@@ -61,9 +61,8 @@ with tasks tracked as GitHub Issues.
 
 ## CI / CD
 
-This project uses GitLab CI for continuous integration.
-
-The GitHub repository is mirrored to GitLab, where pipelines handle:
+This project uses Github Actions for continuous integration and deployment.
+For now, the pipelines handle :
 - linting
 - tests
 - build checks
