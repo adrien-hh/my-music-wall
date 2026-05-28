@@ -39,9 +39,10 @@ The Minimum Viable Product includes the following features:
 - Display a visual album wall (grid of album covers)
 - Add albums to the collection via search
 - View album basic information (cover, title, artist)
-- Mark albums as:
-  - Listened
+- Mark albums with a status:
+  - To Listen
   - Liked
+  - Disliked
 - Open a minimal album detail view (modal)
 - Responsive design (desktop and mobile)
 
