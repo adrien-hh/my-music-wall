@@ -1,4 +1,6 @@
-# MyMusicWall — Project Specifications
+# Project Specifications
+
+This document defines the scope, objectives, and requirements of MyMusicWall. It serves as the main reference for functional and non-functional decisions throughout the project.
 
 ## 1. Project Overview
 
@@ -7,7 +9,6 @@ MyMusicWall is a personal web application designed to allow users to build and e
 
 The main goal of the project is to provide a **simple, minimal, and visual** way to track albums that have been listened to or liked, without unnecessary features or complex navigation.
 
----
 
 ### 1.2 Objectives
 - Create a clean and intuitive user experience focused on album cover art
@@ -28,12 +29,10 @@ The application targets music enthusiasts who:
 - **Casual listener**: wants to remember which albums were already listened to
 - **Music enthusiast**: enjoys organizing and visually browsing albums
 
----
 
 ## 3. Functional Scope
 
 ### 3.1 Core Features (MVP)
-
 The Minimum Viable Product includes the following features:
 
 - Display a visual album wall (grid of album covers)
@@ -46,7 +45,6 @@ The Minimum Viable Product includes the following features:
 - Open a minimal album detail view (modal)
 - Responsive design (desktop and mobile)
 
----
 
 ### 3.2 Out-of-Scope Features (for MVP)
 
@@ -60,12 +58,12 @@ The following features are explicitly excluded from the MVP:
 
 
 ## 4. User Experience Principles
-
 - Album covers are the primary visual element
 - One-click interactions whenever possible
 - No deep navigation or nested menus
 - Minimalist interface, limited text
 - Fast and smooth browsing experience
+
 
 ## 5. Non-Functional Requirements
 
@@ -88,7 +86,6 @@ The following features are explicitly excluded from the MVP:
 - Separation of concerns between layers
 
 ## 6. Constraints & Assumptions
-
 - The project is developed as a personal project
 - Initial user base is limited
 - External music APIs may impose rate limits
@@ -96,15 +93,13 @@ The following features are explicitly excluded from the MVP:
 
 
 ## 7. Future Evolutions (Post-MVP)
-
-Potential future improvements include:
+Potential future improvements include :
 - Custom album lists
 - Filtering and sorting options
 - User accounts and authentication
 - Public profiles or shared collections
 
 ## 8. Success Criteria
-
 The project is considered successful if:
 - Users can easily add and browse albums
 - The interface remains simple and visually appealing
@@ -112,7 +107,6 @@ The project is considered successful if:
 - The codebase is clean and maintainable
 
 ## 9. Open Questions
-
 - Which music API should be used?
 - Should authentication be included in the first release?
 - How much data should be stored locally vs remotely?

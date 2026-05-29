@@ -2,7 +2,7 @@
 
 This document describes the main user profiles for MyMusicWall. Personas are used to guide UX, functional scope, and design decisions.
 
-## Persona 1 — The casual listener
+## Persona 1 : The casual listener
 
 **Goals**
 * Keep track of albums listened, liked
@@ -16,7 +16,7 @@ This document describes the main user profiles for MyMusicWall. Personas are use
 * Existing apps are too complex
 * Too many clicks for simple actions
 
-## Persona 2 — The music enthusiast
+## Persona 2 : The music enthusiast
 
 **Goals**
 * Build a personal album library
